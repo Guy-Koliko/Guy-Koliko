@@ -12,7 +12,7 @@
 ### Languages and Tools
 🍏 Python<br>
 🍏 Kotlin<br>
-🍏 Javasript<br>
+🍏 Javascript<br>
 🍏 Django<br>
 🍏 Flask<br>
 🍏 Pip<br>
