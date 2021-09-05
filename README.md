@@ -17,4 +17,7 @@
 🍏 Flask<br>
 🍏 Pip<br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guy-Koliko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
