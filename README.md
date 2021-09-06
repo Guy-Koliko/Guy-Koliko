@@ -10,7 +10,7 @@
 ☎️ 0261208893<br>
 
 ### Languages and Tools
-| PYTHON      | FLASK | KOTLIN     | DJANGO|  JS|
+| PYTHON      | FLASK | KOTLIN     | DJANGO| JAVASCRIPT|
 | :---        |    :----:   |          :---: | :---:| ---:
 |<img src="https://raw.githubusercontent.com/Guy-Koliko/E_icons/main/python.png" width="60" height="40"> |<img src="https://github.com/Guy-Koliko/E_icons/blob/main/flask-1.png" width="60" height="40">   | <img src="https://github.com/Guy-Koliko/E_icons/blob/main/Kotlin_logo_wordmark.png" width="60" height="40">    |<img src="https://github.com/Guy-Koliko/E_icons/blob/main/django-dark.png" width="60" height="60">|<img src="https://github.com/Guy-Koliko/E_icons/blob/main/js.png" width="60" height="40">
 
