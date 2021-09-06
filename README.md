@@ -7,7 +7,7 @@
 
 ### Contact
 📧 edemrobin@gmail.com<br>
-☎️ 0261208893<br>
+☎️ 0261208893 (WhatsApp / Telegram) <br>
 
 ### Languages and Tools
 | PYTHON      | FLASK | KOTLIN     | DJANGO| JAVASCRIPT|
